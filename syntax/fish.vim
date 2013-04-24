@@ -13,6 +13,7 @@ else
 endif
 
 syntax keyword shFunctionKey .
+syntax keyword shFunctionKey alias
 syntax keyword shFunctionKey and
 syntax keyword shFunctionKey begin
 syntax keyword shFunctionKey bg
@@ -54,3 +55,5 @@ syntax keyword shFunctionKey switch
 syntax keyword shFunctionKey test
 syntax keyword shFunctionKey ulimit
 syntax keyword shFunctionKey while
+
+syntax keyword shFunctionKey in
